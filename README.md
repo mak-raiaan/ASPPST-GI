@@ -3,6 +3,9 @@
 
 📚 This repository contains the original implementation Atrous-Spatial-Pyramid-Pooling-with-Swin-Transformer of for classifying gastrointestinal tracts using endoscopic images.
 
+## ASPPST CODE
+📄 [Code](https://github.com/mak-raiaan/ASPPST-GI/blob/main/asppst.py)
+
 ## Model's Weight
 📄-[Weight](https://github.com/mak-raiaan/ASPPST-GI/tree/main/Weight)
 
